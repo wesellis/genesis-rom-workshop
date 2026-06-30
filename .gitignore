@@ -127,3 +127,5 @@ workspace/exports/*
 !tools/**/*.md
 !tools/**/*.json
 !tools/**/*.py
+
+docs/PROJECT_COMPLETION_SUMMARY.md
