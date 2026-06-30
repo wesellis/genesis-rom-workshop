@@ -4,8 +4,8 @@ A Python toolkit for analyzing and extracting assets from Sega Genesis/Mega Driv
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/wesellis/APP-Genesis-ROM-Workshop-Sega-Palette-Text-Asset-Extraction?style=flat-square)](https://github.com/wesellis/APP-Genesis-ROM-Workshop-Sega-Palette-Text-Asset-Extraction/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/wesellis/APP-Genesis-ROM-Workshop-Sega-Palette-Text-Asset-Extraction?style=flat-square)](https://github.com/wesellis/APP-Genesis-ROM-Workshop-Sega-Palette-Text-Asset-Extraction/commits)
+[![Stars](https://img.shields.io/github/stars/wesellis/genesis-rom-workshop?style=flat-square)](https://github.com/wesellis/genesis-rom-workshop/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/wesellis/genesis-rom-workshop?style=flat-square)](https://github.com/wesellis/genesis-rom-workshop/commits)
 
 ## Overview
 
@@ -292,8 +292,6 @@ Wesley Ellis
 ---
 
 ## Project Status & Roadmap
-
-**Completion: ~95%** ✨ **MAJOR UPDATE - Graphics Rendering Implemented!**
 
 ### What Works ✅
 
